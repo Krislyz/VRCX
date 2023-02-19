@@ -10,14 +10,19 @@ import elements_ko from 'element-ui/lib/locale/lang/ko';
 import zh_CN from './strings/zh_CN.json' assert {type: 'JSON'};
 import elements_zh_CN from 'element-ui/lib/locale/lang/zh-CN';
 
+import he_IL from './strings/he_IL.json' assert {type: 'JSON'};
+import elements_he_IL from 'element-ui/lib/locale/lang/he-IL';
+
 const localized_en = {...en, ...elements_en};
 const localized_zh_TW = {...zh_TW, ...elements_zh_TW};
 const localized_zh_CN = {...zh_CN, ...elements_zh_CN};
 const localized_ko = {...ko, ...elements_ko};
+const localized_he_IL = {...he_IL, ...elements_he_IL};
 
 export {
     localized_en as en,
     localized_zh_TW as zh_TW,
     localized_ko as ko,
     localized_zh_CN as zh_CN
+	localized_he_IL as he_IL
 };
