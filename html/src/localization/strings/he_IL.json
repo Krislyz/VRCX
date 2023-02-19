@@ -173,7 +173,7 @@
                 "general": "כללי",
                 "appearance": "תצוגה",
                 "notifications": "מודעות",
-                "wrist_overlay": "כיסוי פרק כף היד",
+                "wrist_overlay": "שכבת על של פרק כף היד",
                 "discord_presence": "נוכחות דיסקורד",
                 "advanced": "מתקדם"
             },
@@ -239,82 +239,82 @@
                     "header": "לוח צד",
                     "sorting": {
                         "header": "מיון",
-                        "sort_private_to_bottom": "Sort Private to bottom",
-                        "sort_by_status": "Sort by status",
-                        "sort_gps_to_top": "Sort GPS to top",
-                        "sort_gps_to_top_notice": "(online for only)",
-                        "sort_favorite_by": "Sort Favorites by",
-                        "sort_favorite_by_alphabet": "alphabetical",
-                        "sort_favorite_by_online_time": "online for",
-                        "sort_online_by": "Sort Online by",
-                        "sort_online_by_alphabet": "alphabetical",
-                        "sort_online_by_online_time": "online for",
-                        "sort_active_by": "Sort Active by",
-                        "sort_active_by_alphabet": "alphabetical",
-                        "sort_active_by_online_time": "online for",
-                        "sort_offline_by": "Sort Offline by",
-                        "sort_offline_by_alphabet": "alphabetical",
-                        "sort_offline_by_offline_time": "offline for"
+                        "sort_private_to_bottom": "מיין פרטי למטה",
+                        "sort_by_status": "מיין לפי סטאטוס",
+                        "sort_gps_to_top": "מיין GPS למעלה",
+                        "sort_gps_to_top_notice": "(רק מחובר למשך)",
+                        "sort_favorite_by": "מיין מועדפים לפי",
+                        "sort_favorite_by_alphabet": "אלף ביתי",
+                        "sort_favorite_by_online_time": "מחובר למשך",
+                        "sort_online_by": "מיין מחוברים לפי",
+                        "sort_online_by_alphabet": "אלף ביתי",
+                        "sort_online_by_online_time": "מחובר למשך",
+                        "sort_active_by": "מיין אקטיבי לפי",
+                        "sort_active_by_alphabet": "אלף ביתי",
+                        "sort_active_by_online_time": "מחובר למשך",
+                        "sort_offline_by": "מיין לא מחובר לפי",
+                        "sort_offline_by_alphabet": "אלף ביתי",
+                        "sort_offline_by_offline_time": "לא מחובר למשך"
                     },
-                    "width": "Width"
+                    "width": "רוחב"
                 },
                 "user_dialog": {
-                    "header": "User Dialog",
-                    "hide_vrchat_notes": "Hide VRChat Notes",
-                    "hide_vrcx_memos": "Hide VRCX Memos",
-                    "export_vrcx_memos_into_vrchat_notes": "Export VRCX Memos into VRChat notes",
-                    "export_notes": "Export Notes"
+                    "header": "דיאלוג משתמש",
+                    "hide_vrchat_notes": "הסתר הערות VRChat",
+                    "hide_vrcx_memos": "הסתר מזכרי VRCX",
+                    "export_vrcx_memos_into_vrchat_notes": "ייצא תזכירי VRCX להערות VRChat",
+                    "export_notes": "ייצוא הערות"
                 },
                 "user_colors": {
-                    "header": "User Colors",
-                    "random_colors_from_user_id": "Random Colors from User ID"
+                    "header": "צבעי משתמש",
+                    "random_colors_from_user_id": "צבעים אקראיים מזיהוי משתמש"
                 }
             },
             "notifications": {
                 "notifications": {
-                    "header": "Notifications",
-                    "notification_filter": "Notification Filter",
+                    "header": "מודעות",
+                    "notification_filter": "פילטר מודעות",
                     "steamvr_notifications": {
-                        "header": "SteamVR Notifications",
-                        "steamvr_overlay": "SteamVR Overlay",
-                        "overlay_notifications": "Overlay Notifications",
-                        "notification_position": "Notification Position",
-                        "xsoverlay_notifications": "XSOverlay Notifications",
-                        "user_images": "User Images (slower)",
-                        "notification_timeout": "Notification Timeout"
+                        "header": "מודעות SteamVR",
+                        "steamvr_overlay": "שכבת על של SteamVR",
+                        "overlay_notifications": "מודעות שכבת על",
+                        "notification_position": "מיקום מודעות",
+                        "xsoverlay_notifications": "הודעות XSOverlay",
+                        "user_images": "תמונות משתמש (איטי יותר)",
+                        "notification_timeout": "זמן קצוב להודעות"
                     },
                     "desktop_notifications": {
-                        "header": "Desktop Notifications",
-                        "when_to_display": "When to display",
-                        "when_to_display_never": "Never",
-                        "when_to_display_desktop": "Desktop Mode",
-                        "when_to_display_inside_vr": "Inside VR",
-                        "when_to_display_outside_vr": "Outside VR",
-                        "when_to_display_game_closed": "Game Closed",
-                        "when_to_display_game_running": "Game Running",
-                        "when_to_display_always": "Always"
+                        "header": "הודעות על שולחן העבודה",
+                        "when_to_display": "מתי להציג",
+                        "when_to_display_never": "אף פעם",
+                        "when_to_display_desktop": "במצב שולחן עבודה",
+                        "when_to_display_inside_vr": "בתוך מציאות מדומה",
+                        "when_to_display_outside_vr": "מחוץ למציאות מדומה",
+                        "when_to_display_game_closed": "משחק סגור",
+                        "when_to_display_game_running": "משחק פעיל",
+                        "when_to_display_always": "תמיד"
                     },
                     "text_to_speech": {
-                        "header": "Text-To-Speech Options",
-                        "when_to_play": "Notification TTS. When to play",
-                        "when_to_play_never": "Never",
-                        "when_to_play_inside_vr": "Inside VR",
-                        "when_to_play_game_closed": "Game Closed",
-                        "when_to_play_game_running": "Game Running",
-                        "when_to_play_always": "Always",
-                        "tts_voice": "TTS Voice"
+                        "header": "אפשרויות טקסט-לדיבור",
+                        "when_to_play": "הודעת TTS. מתי לנגן",
+                        "when_to_play_never": "אף פעם",
+                        "when_to_play_inside_vr": "בתוך מציאות מדומה",
+                        "when_to_play_game_closed": "משחק סגור",
+                        "when_to_play_game_running": "משחק פעיל",
+                        "when_to_play_always": "תמיד",
+                        "tts_voice": "קול TTS"
                     }
                 }
             },
             "wrist_overlay": {
                 "steamvr_wrist_overlay": {
-                    "header": "SteamVR Wrist Overlay",
-                    "description": "* It runs automatically when VRChat is running.",
-                    "grip": "Grip: Vive or Other Controllers Grab, Oculus X/A Buttons",
-                    "menu": "Menu: Vive Menu, Index B, Oculus Y/B Buttons",
-                    "steamvr_overlay": "SteamVR Overlay",
-                    "wrist_feed_overlay": "Wrist Feed Overlay",
-                    "hide_private_worlds": "Hide Private Worlds",
+                    "header": "שכבת שורש כף היד של SteamVR",
+                    "description": "* זה פועל אוטומטית כאשר VRChat פועל.",
+                    "grip": "אחיזה: תפיסת בקרים של Vive או אחרים, כפתורי Oculus X/A",
+                    "menu": "תפריט: תפריט Vive, אינדקס B, לחצני Oculus Y/B",
+                    "steamvr_overlay": "שכבת על של SteamVR",
+                    "wrist_feed_overlay": "שכבת על בפרק כך היד של התפריט הראשי",
+                    "hide_private_worlds": "הסתר עולמות פרטיים",
                     "start_overlay_with": "Start Overlay With",
                     "overlay_button": "Overlay Button",
                     "overlay_button_grip": "Grip",
