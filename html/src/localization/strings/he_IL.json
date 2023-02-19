@@ -158,87 +158,87 @@
             },
             "invite_messages": "מודעות הזמנה",
             "invite_response_messages": "תגובות מודעות הזמנה",
-            "invite_request_messages": "Invite Request Messages",
-            "invite_request_response_messages": "Invite Request Response Messages",
-            "past_display_names": "Past Display Names",
-            "config_json": "Config JSON",
-            "current_user_json": "Current User JSON",
-            "feedback": "Feedback",
+            "invite_request_messages": "הודעות של בקשות הזמנה",
+            "invite_request_response_messages": "הודעות תגובה לבקשות הזמנה",
+            "past_display_names": "שמות תצוגה קודמים",
+            "config_json": "הגדרה JSON",
+            "current_user_json": "משתמש נוכחי JSON",
+            "feedback": "משוב",
             "refresh_tooltip": "רענן",
-            "clear_results_tooltip": "Clear results"
+            "clear_results_tooltip": "נקה תוצאות"
         },
         "settings": {
-            "header": "Settings",
+            "header": "הגדרות",
             "category": {
-                "general": "General",
-                "appearance": "Appearance",
-                "notifications": "Notifications",
-                "wrist_overlay": "Wrist Overlay",
-                "discord_presence": "Discord Presence",
-                "advanced": "Advanced"
+                "general": "כללי",
+                "appearance": "תצוגה",
+                "notifications": "מודעות",
+                "wrist_overlay": "כיסוי פרק כף היד",
+                "discord_presence": "נוכחות דיסקורד",
+                "advanced": "מתקדם"
             },
             "general": {
                 "general": {
-                    "header": "General",
-                    "version": "Version",
-                    "latest_app_version": "Latest Version",
-                    "latest_app_version_refresh": "Click to refresh",
-                    "repository_url": "Repository URL",
-                    "support": "Support"
+                    "header": "כללי",
+                    "version": "גרסא",
+                    "latest_app_version": "הגרסה העדכנית ביותר",
+                    "latest_app_version_refresh": "לחץ כדי לרענן",
+                    "repository_url": "כתובת המאגר",
+                    "support": "עזרה"
                 },
                 "vrcx_updater": {
-                    "header": "VRCX Updater",
-                    "change_build": "Change build",
-                    "auto_update": "Auto update",
-                    "auto_update_off": "Off",
-                    "auto_update_notify": "Notify",
-                    "auto_update_download": "Auto Download",
-                    "auto_update_install": "Auto Install"
+                    "header": "VRCX מעדכן",
+                    "change_build": "שינוי מספר בניה",
+                    "auto_update": "עדכון אוטומטי",
+                    "auto_update_off": "כבוי",
+                    "auto_update_notify": "מודיע",
+                    "auto_update_download": "הורדה אוטומטית",
+                    "auto_update_install": "התקנה אוטומטית"
                 },
                 "application": {
-                    "header": "Application",
-                    "startup": "Start as Windows startup",
-                    "minimized": "Start as minimized state",
-                    "tray": "Close to tray"
+                    "header": "אפליקציה",
+                    "startup": "התחל באתחול ווינדואוס",
+                    "minimized": "התחל כמצב ממוזער",
+                    "tray": "סגור למגש"
                 },
                 "legal_notice": {
-                    "header": "Legal Notice",
-                    "info": "VRCX is an assistant application for VRChat that provides information about and managing friendship. This application makes use of the unofficial VRChat API SDK.",
-                    "disclaimer1": "VRCX is not endorsed by VRChat and does not reflect the views or opinions of VRChat or anyone officially involved in producing or managing VRChat properties. VRChat and all associated properties are trademarks or registered trademarks of VRChat Inc. VRChat © VRChat Inc.",
-                    "disclaimer2": "pypy & Natsumi are not responsible for any problems caused by VRCX. Use at your own risk!",
-                    "open_source_software_notice": "Open Source Software Notice"
+                    "header": "הודעה משפטית",
+                    "info": "VRCX הוא יישום עוזר עבור וי אר צ'אט המספק מידע על וניהול חברות. יישום זה עושה שימוש ב-VRChat API SDK הלא רשמי.",
+                    "disclaimer1": "VRCX אינו מאושר על ידי VRChat ואינו משקף את הדעות או הדעות של VRChat או של כל מי שמעורב באופן רשמי בייצור או בניהול נכסי VRChat. VRChat וכל הנכסים הקשורים הם סימנים מסחריים או סימנים מסחריים רשומים של VRChat Inc. VRChat © VRChat Inc.",
+                    "disclaimer2": "py ו - Natsumi אינם אחראים על כל בעיה הנגרמת על ידי VRCX. השימוש באחריותכם בלבד!",
+                    "open_source_software_notice": "הודעת תוכנת קוד פתוח"
                 }
             },
             "appearance": {
                 "appearance": {
-                    "header": "Appearance",
-                    "language": "Language",
-                    "theme_mode": "Theme mode",
-                    "theme_mode_system": "System",
-                    "theme_mode_light": "Light",
-                    "theme_mode_dark": "Dark",
-                    "vrcplus_profile_icons": "VRCPlus Profile Icons",
-                    "disable_tooltips": "Disable Tooltips",
-                    "sort_favorite_by": "Sort Favorites by",
-                    "sort_favorite_by_name": "name",
-                    "sort_favorite_by_date": "date",
-                    "sort_instance_users_by": "Sort Instance Users by",
-                    "sort_instance_users_by_time": "time",
-                    "sort_instance_users_by_alphabet": "alphabetical",
-                    "table_max_size": "Table Max Size",
-                    "page_size": "Page Size:"
+                    "header": "תצוגה",
+                    "language": "שפה",
+                    "theme_mode": "מצב ערכת נושא",
+                    "theme_mode_system": "מערכת",
+                    "theme_mode_light": "בהיר",
+                    "theme_mode_dark": "כהה",
+                    "vrcplus_profile_icons": "סמלי פרופיל VRCPlus",
+                    "disable_tooltips": "השבת עצות כלים",
+                    "sort_favorite_by": "מיין מועדפים לפי",
+                    "sort_favorite_by_name": "שם",
+                    "sort_favorite_by_date": "תאריך",
+                    "sort_instance_users_by": "מיין משתמשי מופע לפי",
+                    "sort_instance_users_by_time": "זמן",
+                    "sort_instance_users_by_alphabet": "אלף ביתי",
+                    "table_max_size": "גודל טבלה מקסימלי",
+                    "page_size": "גודל עמוד:"
                 },
                 "timedate": {
-                    "header": "Time/Date",
-                    "time_format": "Time Format",
-                    "time_format_24": "24 Hour",
-                    "time_format_12": "12 Hour",
-                    "force_iso_date_format": "Force ISO Date Format"
+                    "header": "זמן/תאריך",
+                    "time_format": "פורמט זמן",
+                    "time_format_24": "24 שעות",
+                    "time_format_12": "12 שעות",
+                    "force_iso_date_format": "כפה פורמט תאריך ISO"
                 },
                 "side_panel": {
-                    "header": "Side Panel",
+                    "header": "לוח צד",
                     "sorting": {
-                        "header": "Sorting",
+                        "header": "מיון",
                         "sort_private_to_bottom": "Sort Private to bottom",
                         "sort_by_status": "Sort by status",
                         "sort_gps_to_top": "Sort GPS to top",
@@ -504,7 +504,7 @@
                 "moderation_enable_avatar_interaction": "Enable Avatar Interaction",
                 "moderation_disable_avatar_interaction": "Disable Avatar Interaction",
                 "edit_status": "Social Status",
-                "edit_language": "Language",
+                "edit_language": "שפה",
                 "edit_bio": "Bio",
                 "unfriend": "Unfriend",
                 "logout": "Logout"
@@ -758,7 +758,7 @@
             "update": "Update"
         },
         "language": {
-            "header": "Language",
+            "header": "שפה",
             "add_language": "Add Language",
             "select_language": "Select Language",
             "ok": "OK",
@@ -1292,7 +1292,7 @@
             "displayName": "Display Name",
             "status": "Status",
             "rank": "Rank",
-            "language": "Language",
+            "language": "שפה",
             "bioLink": "Bio Links",
             "date": "Date",
             "user": "User",
@@ -1326,7 +1326,7 @@
             "displayName": "Display Name",
             "rank": "Rank",
             "status": "Status",
-            "language": "Language",
+            "language": "שפה",
             "bioLink": "Bio Links",
             "joinCount": "Join Counts",
             "timeTogether": "Time Together",
